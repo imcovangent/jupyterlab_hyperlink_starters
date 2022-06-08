@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "jupyterlab_hyperlink_starters",
+  "description": "jupyterlab_hyperlink_starters settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}
